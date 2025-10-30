@@ -1,6 +1,6 @@
 <?php
 
-echo "Hello World! RLJ";
+echo "Hello World! RLJ pagina modificada";
 
 // Recuperar variables de entorno
 $dbHost = getenv('DB_HOST');
